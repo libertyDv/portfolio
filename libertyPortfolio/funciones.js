@@ -99,7 +99,6 @@ document.addEventListener("DOMContentLoaded", function () {
         popup.style.display = "none";
     })
 
-
     // Para mostrar toda la información de cada proyecto
     function mostrarInfoProyecto(numeroProyecto) {
         const proyectoActual = proyectos[numeroProyecto - 1]
