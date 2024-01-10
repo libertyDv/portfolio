@@ -17,7 +17,7 @@ const proyectos = [
     },
     {
         titulo: "Portfolio",
-        enlace: "https://www.ejemplo.com/proyecto2",
+        enlace: "https://github.com/libertyDv/portfolio",
         tecnologias: "HTML, CSS, Javascript",
         tipo: "Página Web",
         descripcion: `Portfolio personal creado con el fin de mostrar y destacar habilidades y proyectos.

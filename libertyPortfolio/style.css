@@ -377,7 +377,7 @@ img {
     padding-bottom: 10%;
     padding-left: 30%;
     padding-right: 30%;
-    border-radius: 5%;
+    border-radius: 10px;
     margin-top: 5%;
     margin-bottom: 5%;
     background-image: url('imagenes/fondoProyectos.png');
@@ -385,6 +385,25 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.div-proyecto {
+    background-image: url('imagenes/fondoGatos.png');
+}
+
+.div-proyecto2 {
+    background-image: url('imagenes/fondoPort.png');
+}
+
+.div-proyecto3 {
+    background-image: url("imagenes/fondoWord.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+} 
+
+.div-proyecto4 {
+    background-image: url('imagenes/fondoCalcu.png');
 }
 
 .proyecto-info,
